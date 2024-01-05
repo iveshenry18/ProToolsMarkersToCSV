@@ -1,6 +1,6 @@
 # Pro Tools Markers to CSV
 
-A ChatGPT-output script for parsing output Pro Tools Markers to CSV
+A simple script for parsing output Pro Tools Markers to CSV
 
 ## Exporting Session Data from Pro Tools
 
