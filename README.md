@@ -2,6 +2,9 @@
 
 A simple script for parsing output Pro Tools Markers to CSV
 
+## Usage
+`python markers_to_csv.py <input_file_path> <output_file_path>`
+
 ## Exporting Session Data from Pro Tools
 
 1. File -> Export -> Session Info as Text
